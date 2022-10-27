@@ -14,7 +14,7 @@ Insightful computer programming student who excels at Python and JavaScript and 
 const Taeyeon =
 
                {  
-                pronouunce : "she" | "her" 
+                pronouunce : "She" | "Her" 
                 code : [Java, JavaScript, React Native, Python, Spring framework]
                 tools : [Eclipse, Oracle, Visual Studio Code, Android Studio, MySQL]
                 speaker : [Korean, English]
