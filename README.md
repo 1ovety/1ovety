@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hello World, I'm Taeyeon!! 😊
 
-<!--
-**1ovety/1ovety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my page!
 
-Here are some ideas to get you started:
+I'm Taeyeon.
+Computer Programming at Algonquin College in Canada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Insightful computer programming student who excels at Python and JavaScript and actively seeking an intern and full-time position. I'm in the last semester of computer programming, and my graduation is scheduled for December 2022.
+</br>
+<hr>
+
+### A little more about me 💻
+
+const Taeyeon =
+
+               {  
+                pronouunce : "she" | "her" 
+                code : [Java, JavaScript, React Native, Python, Spring framework]
+                tools : [Eclipse, Oracle, Visual Studio Code, Android Studio, MySQL]
+                speaker : [Korean, English]
+                }
+
+
+</br></br></br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ovety&show_icons=true&theme=radical)](https://github.com/1ovety/github-readme-stats)
+
+
+  
