@@ -22,7 +22,7 @@ const Taeyeon =
 
 
 </br></br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeyeon Kim&show_icons=true&theme=radical)](https://github.com/Taeyeon-dev/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeyeon-dev&show_icons=true&theme=radical)](https://github.com/Taeyeon-dev/github-readme-stats)
 
 
   
