@@ -2,10 +2,6 @@
 
 Welcome to my page!
 
-I'm Taeyeon.
-Computer Programming at Algonquin College in Canada
-
-Insightful computer programming student who excels at Python and JavaScript and actively seeking an intern and full-time position. I'm in the last semester of computer programming, and my graduation is scheduled for December 2022.
 </br>
 <hr>
 
