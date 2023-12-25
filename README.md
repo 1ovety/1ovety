@@ -2,9 +2,6 @@
 
 Welcome to my page!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktyeon&show_icons=true&theme=radical)
-
-
 </br>
 <hr>
 
@@ -21,6 +18,8 @@ const Taeyeon =
 
 
 </br></br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktyeon&show_icons=true&theme=radical)
 
 
   
