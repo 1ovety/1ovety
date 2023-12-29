@@ -24,8 +24,7 @@ const Taeyeon =
 
 </br>
 
-
-![Git badge]([http://url/to/img.png](https://github.com/ktyeon/ktyeon/issues/url)
+![image](https://github.com/ktyeon/ktyeon/assets/84512238/a803e7d8-4d7b-4e21-91e2-1f200bdf3b51)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktyeon&show_icons=true&theme=radical)
 
