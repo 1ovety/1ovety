@@ -6,7 +6,7 @@ I aspire to become a developer who contributes significantly to projects and mak
 
 My keywords : Brave, Energetic, Considerate, Self-confidence, Easygoing
 
-<= I enjoy drawing as a hobby, and my profile features 'Yonggu,' a character I casually created for fun.
+<= I enjoy drawing as a hobby, and my profile features 'Yonggu,' a dragon character I casually created for fun.
 
 <hr>
 
