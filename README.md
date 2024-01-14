@@ -26,5 +26,5 @@ const Taeyeon =
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktyeon&show_icons=true&theme=radical)
 
-
+![image](https://github.com/ktyeon/ktyeon/assets/84512238/7498af19-0e56-4487-a52b-85e68bd8a2aa)
   
